@@ -1,5 +1,5 @@
  # Crop Recommendation using IBM AutoAI
-This project is part of my IBM AICED Internship (Week 1).  
+This project is part of my IBM AICET Internship (Week 1).  
 I used IBM Watson AutoAI to build a Machine Learning model that recommends the most suitable crop based on:
 - Nitrogen (N)
 - Phosphorus (P)
